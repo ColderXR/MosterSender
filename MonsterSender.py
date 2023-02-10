@@ -7,7 +7,7 @@ from random import choice
 from getpass import getpass
 Input = getpass
 # =========== Start Code =========== #
-Names = ['هلا','مستر سلطع','هكر رهيب','سفاح','سفاح اوشيها','كينج مدارا']
+Names = ['هلا','مستر سلطع','هكر رهيب','سفاح المصري هو امنجس','سفاح العرب هو البعبع','كينج مدارا']
 print(Fe.RED+ft('NotEver','small'))
 Email = Input(Fe.LIGHTRED_EX+'[=] Email ? : ')
 Password = Input(Fe.LIGHTRED_EX+'[=] Password : ')
